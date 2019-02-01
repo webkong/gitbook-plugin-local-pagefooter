@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-local-pagefooter",
-  "description": "Customize the footer of each article, can add copyright and display file modification time, time can be local time",
+  "description": "Customize the footer of each article, you can add copyright and document reversion of time",
   "main": "index.js",
   "version": "1.0.2",
   "author": {
