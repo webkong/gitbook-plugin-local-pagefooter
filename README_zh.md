@@ -1,5 +1,7 @@
 # gitbook-plugin-local-pagefooter
 
+[English](./README.md) [简体中文](./README_zh.md)
+
 自定义每篇文章的页脚，可以添加版权和文件的修订时间。
 
 ### 安装

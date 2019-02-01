@@ -1,7 +1,6 @@
 # gitbook-plugin-local-pagefooter
 
-[English](./README.md)
-[简体中文](./README_zh.md)
+[English](./README.md) [简体中文](./README_zh.md)
 
 Customize the footer of each article, you can add copyright and document reversion of time. The time can be local or UTC.
 
