@@ -1,8 +1,8 @@
 {
   "name": "gitbook-plugin-local-pagefooter",
-  "description": "定制每篇文章的页脚，可以添加版权和显示文件修改时间,时间为本地时间",
+  "description": "Customize the footer of each article, can add copyright and display file modification time, time can be local time",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "webkong",
     "email": "772930508@qq.com"
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/webkong/gitbook-plugin-local-pagefooter.git"
   },
-  "license": "Apache 2",
+  "license": "MIT",
   "dependencies": {
     "moment": "^2.10.6"
   }
