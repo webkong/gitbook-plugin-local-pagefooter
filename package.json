@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-local-pagefooter",
   "description": "Customize the footer of each article, you can add copyright and document reversion of time",
   "main": "index.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "webkong",
     "email": "772930508@qq.com"
